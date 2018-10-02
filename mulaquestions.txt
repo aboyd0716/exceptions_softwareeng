@@ -1,0 +1,11 @@
+1: Big Decimal is more precise, aka exactly what you want/put in. It's also 
+used by the Big Baller Family, including Lonzo etc...Basically it wont drop
+any of the decimals, like a double might at a point.
+
+
+2: 
+a)
+b)
+c)
+
+
